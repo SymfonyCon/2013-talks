@@ -22,7 +22,7 @@ By [Fabien Potencier](https://connect.sensiolabs.com/profile/fabpot)
 </dl>
 
 [Slides](http://www.slideshare.net/matthiasnoback/diving-deep-into-twig)  
-~~Video~~  
+[Video](http://youtu.be/jDM0u0B_tXo)  
 
 By [Matthias Noback](https://connect.sensiolabs.com/profile/mnoback)  
 ![github](icon/github.png) [@matthiasnoback](https://github.com/matthiasnoback)  
@@ -38,7 +38,7 @@ By [Matthias Noback](https://connect.sensiolabs.com/profile/mnoback)
 </dl>
 
 [Slides](http://lyrixx.github.io/SFCon-Warsaw2013-Automation/)  
-~~Video~~  
+[Video](http://youtu.be/J7IJboVLOmo)  
 
 By [Grégoire Pineau](https://connect.sensiolabs.com/profile/lyrixx)  
 ![github](icon/github.png) [@lyrixx](https://github.com/lyrixx)  
@@ -74,7 +74,7 @@ And [William Durand](https://connect.sensiolabs.com/profile/lyrixx)
 </dl>
 
 [Slides](http://www.slideshare.net/piotrpasich/simplify-your-code-with-annotations-symfonycon-warsaw-2013)  
-~~Video~~
+[Video](http://youtu.be/rSKsQRZd7Jw)
 
 By [Piotr Pasich](https://connect.sensiolabs.com/profile/piotr.pasich)  
 ![github](icon/github.png) [@piotrpasich](https://github.com/piotrpasich)  
@@ -90,7 +90,7 @@ By [Piotr Pasich](https://connect.sensiolabs.com/profile/piotr.pasich)
 </dl>
 
 ~~Slides~~  
-~~Video~~
+[Video](http://youtu.be/_EE9mufKx3o)
 
 By [Gediminas Morkevicius](https://connect.sensiolabs.com/profile/l3pp4rd)  
 ![github](icon/github.png) [@l3pp4rd](https://github.com/l3pp4rd)  
@@ -106,7 +106,7 @@ By [Gediminas Morkevicius](https://connect.sensiolabs.com/profile/l3pp4rd)
 </dl>
 
 [Slides](http://davidbu.ch/slides/20131212-symfonycon-cmf.html)  
-~~Video~~
+[Video](http://youtu.be/jCtZkjMKmEk)
 
 By [David Buchmann](https://connect.sensiolabs.com/profile/dbu)  
 ![github](icon/github.png) [@dbu](https://github.com/dbu)  
@@ -122,7 +122,7 @@ By [David Buchmann](https://connect.sensiolabs.com/profile/dbu)
 </dl>
 
 [Slides](https://docs.google.com/presentation/d/1Kjx-Nqjb9SYHGAaW7P9XtK2Vbsztj4ianZ0qeqa3rfs/)  
-~~Video~~
+[Video](http://youtu.be/MkKfE1jy2hg)
 
 By [John La](https://connect.sensiolabs.com/profile/johnla)  
 ![github](icon/github.png) [@johnla](https://github.com/johnla)  
@@ -154,8 +154,8 @@ By [Kris Wallsmith](https://connect.sensiolabs.com/profile/kriswallsmith)
   <dd>Bower, Grunt, and RequireJS are just a few tools that have been re-shaping the frontend development world, replacing cluttered script tags and server-side build solutions with a sophisticated, but sometimes complex approach to dependency management and module loading. In this talk, we'll put on our trendy frontend developer hat and find out how these tools work and how they differ from what we might be used to. Most important, we'll see how using tools like this might look in Symfony2 and how our application can be a friendly place for a frontend guy/gal.</dd>
 </dl>
 
-[Slides](http://www.slideshare.net/kriswallsmith/how-kris-writessymfonyappssymfonycon)  
-[Video](http://youtu.be/Pn2lYHvnoUQ)
+[Slides](http://slideshare.net/weaverryan/cool-like-frontend-developer-grunt-requirejs-bower-and-other-tools-29177248)  
+[Video](http://youtu.be/R7iN5SFglMo)
 
 By [Ryan Weaver](https://connect.sensiolabs.com/profile/weaverryan)  
 ![github](icon/github.png) [@weaverryan](https://github.com/weaverryan)  
@@ -187,7 +187,7 @@ By [Cathy Theys](https://connect.sensiolabs.com/profile/yesct)
 </dl>
 
 [Slides](https://speakerdeck.com/webmozart/symfony2-forms-past-present-future)  
-~~Video~~
+[Video](http://youtu.be/Hl-MjzhMBHc)
 
 By [Bernhard Schussek](https://connect.sensiolabs.com/profile/bschussek)  
 ![github](icon/github.png) [@webmozart](https://github.com/webmozart)  
@@ -204,7 +204,7 @@ By [Bernhard Schussek](https://connect.sensiolabs.com/profile/bschussek)
 </dl>
 
 [Slides](https://speakerdeck.com/jmikola/async-php-with-react)  
-~~Video~~
+[Video](http://youtu.be/xsRz89cBrOU)
 
 By [Jeremy Mikola](https://connect.sensiolabs.com/profile/jmikola)  
 ![github](icon/github.png) [@jmikola](https://github.com/jmikola)  
@@ -220,7 +220,7 @@ By [Jeremy Mikola](https://connect.sensiolabs.com/profile/jmikola)
 </dl>
 
 [Slides](https://slid.es/marieminasyan/drop-ace-use-role-voters)  
-~~Video~~
+[Video](http://youtu.be/e7HfW4TgnUY)
 
 By [Marie Minasyan](https://connect.sensiolabs.com/profile/jmikola)  
 ![github](icon/github.png) [@MarieMinasyan](https://github.com/MarieMinasyan)  
@@ -236,8 +236,8 @@ By [Marie Minasyan](https://connect.sensiolabs.com/profile/jmikola)
   <dd>What is an Object Proxy? This talk explains how virtual proxies, ghost objects and generally "fake" objects can actually help improving the performance and memory impact of your applications while reducing complexity! I will show some practical examples of usage of proxies, their advantages and disadvantages, and even suggest you how to make your PHP more awesome with bleeding-edge technologies such as ProxyManager integrated with Symfony\DependencyInjection or Zend\ServiceManager.</dd>
 </dl>
 
-[Slides](http://ocramius.github.io/presentations/proxy-pattern-in-php/#/1)  
-~~Video~~
+[Slides](http://ocramius.github.io/presentations/proxy-pattern-in-php/)  
+[Video](http://youtu.be/lftBjzyd6dQ)
 
 By [Marco Pivetta](https://connect.sensiolabs.com/profile/ocramius)  
 ![github](icon/github.png) [@Ocramius](https://github.com/Ocramius)  
@@ -253,7 +253,7 @@ By [Marco Pivetta](https://connect.sensiolabs.com/profile/ocramius)
 </dl>
 
 [Slides](https://speakerdeck.com/rouffj/mastering-the-security-components-authentication-mechanism)  
-~~Video~~
+[Video](http://youtu.be/C1y6fxetP5k)
 
 By [Joseph Rouff](https://connect.sensiolabs.com/profile/rouffj)  
 ![github](icon/github.png) [@rouffj](https://github.com/rouffj)  
@@ -269,7 +269,7 @@ By [Joseph Rouff](https://connect.sensiolabs.com/profile/rouffj)
 </dl>
 
 [Slides](https://speakerdeck.com/jakzal/symfony-components-in-the-wild-symfonycon-2013)  
-~~Video~~
+[Video](http://youtu.be/jj3ilXvhjEk)
 
 By [Jakub Zalas](https://connect.sensiolabs.com/profile/jakubzalas)  
 ![github](icon/github.png) [@jakzal](https://github.com/jakzal)  
@@ -284,8 +284,8 @@ By [Jakub Zalas](https://connect.sensiolabs.com/profile/jakubzalas)
   <dd>If you've used Silex before, you probably know it quickly becomes the little engine that could. You start off with one file and a handful of routes, before you know it, your application is a success and you've got dozens of routes, just as many services, as well as a fair few middlewares, event listeners and error handlers. Silex is more of a library than a framework, it simply ties together a http abstraction and a routing system, on top of a tiny little dependency injection container. It doesn't prescribe any particular directory structure or make any kind of decisions for you. When your Silex app grows, maybe it's about time you made a few decisions. In this talk we'll run through a really quick introduction to Silex, before discussing some organised approaches to managing the growth of your Silex application. There is no "one true method" for organising a Silex application, hopefully after this talk you'll have enough options to carve out your own method.</dd>
 </dl>
 
-[Slides](https://speakerdeck.com/jakzal/symfony-components-in-the-wild-symfonycon-2013)  
-~~Video~~
+[Slides](https://speakerdeck.com/davedevelopment/taming-runaway-silex-apps-symfonycon-warsaw-2013)  
+[Video](http://youtu.be/YhPSnTGnYdk)
 
 By [Dave Marshall](https://connect.sensiolabs.com/profile/davedevelopment)  
 ![github](icon/github.png) [@davedevelopment](https://github.com/davedevelopment)  
@@ -300,7 +300,7 @@ By [Dave Marshall](https://connect.sensiolabs.com/profile/davedevelopment)
   <dd>Web applications are getting more and more complex and it is hard to keep an overview of your entire system. With the right tools we can get the relevant information out. This helps spot new problems when they occur, review application performance over time, visualize user behavior, and more. In this session we will look at packagist.org as a case study for monitoring, and see how we can improve reporting in various places to achieve better reliability of the service.</dd>
 </dl>
 
-[Slides](https://speakerdeck.com/jakzal/symfony-components-in-the-wild-symfonycon-2013)  
+[Slides](slides.seld.be/?file=2013-12-13+Application+monitoring+with+Heka+and+statsd.html)  
 [Video](http://youtu.be/eV8U3YWrtr8)
 
 By [Jordi Boggiano](https://connect.sensiolabs.com/profile/seldaek)  
@@ -333,7 +333,7 @@ By [Benjamin Eberlei](https://connect.sensiolabs.com/profile/beberlei)
 </dl>
 
 [Slides](https://speakerdeck.com/dcsg/how-to-build-console-applications-symfonycon-2013)  
-~~Video~~
+[Video](http://youtu.be/bQw_Bk0nEtY)
 
 By [Daniel Gomes](https://connect.sensiolabs.com/profile/danielcsgomes)  
 ![github](icon/github.png) [@_dcsg](https://github.com/_dcsg)  

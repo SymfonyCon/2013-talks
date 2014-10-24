@@ -300,7 +300,7 @@ By [Dave Marshall](https://connect.sensiolabs.com/profile/davedevelopment)
   <dd>Web applications are getting more and more complex and it is hard to keep an overview of your entire system. With the right tools we can get the relevant information out. This helps spot new problems when they occur, review application performance over time, visualize user behavior, and more. In this session we will look at packagist.org as a case study for monitoring, and see how we can improve reporting in various places to achieve better reliability of the service.</dd>
 </dl>
 
-[Slides](slides.seld.be/?file=2013-12-13+Application+monitoring+with+Heka+and+statsd.html)  
+[Slides](http://slides.seld.be/?file=2013-12-13+Application+monitoring+with+Heka+and+statsd.html)  
 [Video](http://youtu.be/eV8U3YWrtr8)
 
 By [Jordi Boggiano](https://connect.sensiolabs.com/profile/seldaek)  
